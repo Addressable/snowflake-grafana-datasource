@@ -29,3 +29,5 @@ e2e-results/
 # Editor
 .idea
 
+temp_auto_push.bat
+temp_interactive_push.bat
